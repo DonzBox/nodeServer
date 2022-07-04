@@ -1,5 +1,9 @@
 /* express 패키지를 호출하여 app 변수 객체를 만드는 로직
-   만들어진 app 객체에 기능을 하나씩 연결 함, app.set으로 설정을 하나씩 세팅 */
+   만들어진 app 객체에 기능을 하나씩 연결 함, app.set으로 설정을 하나씩 세팅
+   
+   Github.com : Personal access tokens
+   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
+*/
 var createError = require("http-errors");
 var express = require("express");
 var path = require("path");
